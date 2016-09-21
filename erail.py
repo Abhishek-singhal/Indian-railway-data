@@ -16,7 +16,7 @@ level = input()
 print("Enter your quota : ")
 quota = input()
 
-api_key = "sgley8808"
+api_key = "api key provided by api.railwayapi.com"
 
 url="http://api.railwayapi.com/between/source/"+source_code +"/dest/"+dest_code+"/date/"+date+"/apikey/"+api_key+"/"
 
